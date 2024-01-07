@@ -1,11 +1,12 @@
 title: Lucy Emmanuel
 theme: jekyll-theme-minimal
-image: /portfolio/IMG_0051-removebg-preview-removebg-preview-removebg-preview.png
+background_color: '#f0f0f0'
 description: Welcome to my data science portfolio! I'm Lucy Emmanuel, an aspiring data scientist passionate about turning raw data into meaningful insights. 
 
 
 author:
   name: Lucy Emmanuel
+  image: /portfolio/IMG_0051-removebg-preview-removebg-preview-removebg-preview.png
 
 repository:
   name: example-portfolio
