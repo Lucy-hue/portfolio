@@ -1,7 +1,7 @@
 title: Lucy Emmanuel
 theme: jekyll-theme-minimal
-image: "C:/Users/b/Pictures/IMG_0051-removebg-preview-removebg-preview-removebg-preview.png"
-description: Welcome to my data science portfolio! I'm Lucy Emmanuel, an aspiring data scientist passionate about turning raw data into meaningful insights. Explore my projects and discover how I leverage Python, SQL, AWS, Snowflake, and MATLAB to tackle diverse challenges.
+image: /portfolio/IMG_0051-removebg-preview-removebg-preview-removebg-preview.png
+description: Welcome to my data science portfolio! I'm Lucy Emmanuel, an aspiring data scientist passionate about turning raw data into meaningful insights. 
 
 
 author:
