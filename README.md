@@ -3,7 +3,7 @@
 ## Summary Of Qualifications
 - 4 years' experience: Data Analytics; Exploratory Analysis, Data Automation, ETL
 - 3 years' experience: Python, SQL, R, Tableau and BigQuery to create large data models
-- M.S. Data Science; Machine Learning, statistics, forecasting, manage struuctured/unstructured data
+- M.S. Data Science; Machine Learning, statistics, forecasting, manage structured/unstructured data
 
 
 ## Education
