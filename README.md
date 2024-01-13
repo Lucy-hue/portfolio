@@ -14,13 +14,14 @@
 ## Work Experience
 
 ### Data Analyst @ Expedia Group (November 2022 - Present)
-- Conducted in-depth data analysis by extracting, transforming, loading, and visualizing data metrics from diverse sources for global compliance reporting,
+- Alleviating companys' legal liabilities by conducting end-to-end data report supporting Global Data Sharing team.
+- Spearheaded product level UAT testing for DAC-7 initiative according to ELCA requirements.
+- Conducting in-depth data analysis by extracting, transforming, loading, and visualizing data metrics from diverse sources for global compliance reporting,
 ensuring accuracy, and resolving data quality issues to meet stringent regulatory standards.
-- Developed and maintained retention scorecard to access compliance level of partners. Presented findings to leadership.
+- Developed and maintained retention scorecard to access compliance level of partners. Sharing findings to leadership.
 - Demonstrated problem-solving skills by efficiently addressing data inconsistencies and discrepancies, identifying resolutions, and participating in testing for
 various reporting requirements, resulting in improved reporting accuracy and compliance.
-- Played a vital role in maintaining data integrity by verifying data attributes through thorough validation processes, ensuring accurate reporting for multiple
-jurisdictions.
+- Developed da 
 - Utilized programming languages like Python and PowerShell for data cleaning automations, trend analysis, and visualization purposes.
 - Effectively communicated and collaborated at all organizational levels, providing valuable feedback and engaging in constructive debates while maintaining
 objectivity, contributing to a culture of continuous improvement and innovation in data analysis and decision-making processes.
