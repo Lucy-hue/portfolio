@@ -1,19 +1,10 @@
 # Data Analyst/Data Scientist
 
-## Technical Skills
-- Python (Numpy, Pandas, Seaborn, Matplotlib,etc)
-- Pyspark
-- SQL Trino, PostgreSQL, Microsoft SQL Server
-- Querybook
-- Postman
-- Quebole
-- Teradata
-- Databicks
-- Jupyter
-- PowerShell
-- GitBash
-- GitHub
-- R programming
+## Summary Of Qualifications
+- 4 years' experience: Data Analytics; Exploratory Analysis, Data Automation, ETL
+- 3 years' experience: Python, SQL, R, Tableau and BigQuery to create large data models
+- M.S. Data Science; Machine Learning, statistics, forecasting, manage struuctured/unstructured data
+
 
 ## Education
 - M.S., Data Science - Maryville University, Missouri (May 2023)
@@ -53,7 +44,16 @@ time by 70% in less than 20 days after hire.
 - Gathered business requirement documents, user stories, documented exception report rules, and participated in QA testing during SDLC of analytical tools.
 
 
-
+## Technical Skills
+- Python: (Numpy, Pandas, Seaborn, Matplotlib,etc), Pyspark
+- SQL: Trino, PostgreSQL, Microsoft SQL Server, ETL, Python integration
+- R programming: Dplyr
+- Excel Power User: Advanced formulas, Pivot Table, Dashboard development
+- Data Visualization: Tableau/SQL driven interactive dashboard, Python
+- Environment: Jupyter, R Studio, QueryBook, GitBash, Visual Studio, Quebole, Data Bricks, Tera Data
+- Automation: PowerShell
+- Documentation: Confluence, Jira
+- Version control: Git Hub, SharePoint
 
 
 
