@@ -1,9 +1,9 @@
 # Data Analyst/Data Scientist
 
 ## Summary Of Qualifications
-- 4 years' experience: Data Analytics; Exploratory Analysis, Data Automation, ETL
-- 3 years' experience: Python, SQL, R, Tableau and BigQuery to create large data models
-- M.S. Data Science; Machine Learning, statistics, forecasting, manage structured/unstructured data
+- 4 years+ experience: Python, SQL, R, Tableau, PowerShell, Data Bricks and BigQuery to create large data models
+- 4 years+ experience: Data Analytics; Exploratory Analysis, Data Automation
+- M.Sc. Data Science; Machine Learning, Statistics, Natural Language Processing, A/B Testing
 
 
 ## Education
@@ -14,47 +14,31 @@
 ## Work Experience
 
 ### Data Analyst @ Expedia Group (November 2022 - Present)
-- Alleviating companys' legal liabilities by conducting end-to-end data report supporting Global Data Sharing team.
-- Spearheaded product level UAT testing for DAC-7 initiative according to ELCA requirements.
-- Conducting in-depth data analysis by extracting, transforming, loading, and visualizing data metrics from diverse sources for global compliance reporting,
-ensuring accuracy, and resolving data quality issues to meet stringent regulatory standards.
-- Developed and maintained retention scorecard to access compliance level of partners. Sharing findings to leadership.
-- Demonstrated problem-solving skills by efficiently addressing data inconsistencies and discrepancies, identifying resolutions, and participating in testing for
-various reporting requirements, resulting in improved reporting accuracy and compliance.
-- Developed da 
-- Utilized programming languages like Python and PowerShell for data cleaning automations, trend analysis, and visualization purposes.
-- Effectively communicated and collaborated at all organizational levels, providing valuable feedback and engaging in constructive debates while maintaining
-objectivity, contributing to a culture of continuous improvement and innovation in data analysis and decision-making processes.
+- Owned, built and maintained end-to-end global data reporting pipeline from QueryBook (SQL), Oracle DB and data warehouses, which distilled massive data into actionable insights for government stakeholders.
+- Saved 50% of reporting time by daily, weekly, and monthly reports automation on various jurisdictions’ data, which includes Python scripts, PowerShell batch files in accordance to business requirements.
+- Spearheaded User Interface Testing for DAC-7 initiative alongside Products’ team, while communicating and documenting findings, which eliminated 99% chances of release errors.
+Analyzed and presented partners' retention/bounce rates to senior leadership by measuring clickstreams over time.
 
 
-### Data Analyst @ Intalere/Vizient Inc (April 2020 - October 2022)
-- Effectively performed Exploratory data analysis (EDA) and data visualization techniques on categorical and continuous variables.
-- Analyzed key aspects of business to evaluate factors driving results, summarized into presentations.
-- Performed competitors' bench-marking analysis to identify members savings opportunities, and potential items enhancements.
-- Queried large quantitative dataset to perform trend analysis to find patterns relating to bid delays.
-- Applied honed problem-solving skills to analyze and resolve issues impacting business operations and goal achievements. Thereby lowering analytics delivery
-time by 70% in less than 20 days after hire.
-- Trained team of 4 on the use of technical tools like MySQL for data retrieval and manipulations.
+
+### Data Analyst @ Vizient Inc (April 2020 - November 2022)
+- Improved members’ data quality testing efficiency by 40%, via data profiling Big Data using column statistics and patterns matching.
+- Mastered competitors' bench-marking analysis which identified members' savings opportunities, and potential items enhancements for over 45 members.
 
 
-### IT Business Analysis Advisor @ Express Script Inc (November 2019 - March 2020)
-- Maintained and performed in-depth analysis of labor and non-labor forecast database for IT financial planning team.
-- Maintained staffing database with over $5,000,000 in each portfolio, ensuring cleanliness and accuracy.
-- Supported IT project managers in matching each resource to their respective project initiatives.
-- Collaborated with the software development team in developing a Financial Automated Staffing Tool [F.A.S.T] for advanced forecasting and budgeting.
-- Gathered business requirement documents, user stories, documented exception report rules, and participated in QA testing during SDLC of analytical tools.
+
+### IT Business Analyst @ Express Script Inc (November 2019 - March 2020)
+- Designed a Financial Automated Staffing Tool for advanced forecasting and budgeting purposes, which lifted teams’ efficiency and accuracy by 40%.
+- Oversaw requirements gathering, escalated roadblocks, and other cross team collaborations prior to launch.
+
 
 
 ## Technical Skills
-- Python: (Numpy, Pandas, Seaborn, Matplotlib,etc), Pyspark
-- SQL: Trino, PostgreSQL, Microsoft SQL Server, ETL, Python integration
-- R programming: Dplyr
-- Excel Power User: Advanced formulas, Pivot Table, Dashboard development
-- Data Visualization: Tableau/SQL driven interactive dashboard, Python
-- Environment: Jupyter, R Studio, QueryBook, GitBash, Visual Studio, Quebole, Data Bricks, Tera Data
-- Automation: PowerShell
-- Documentation: Confluence, Jira
-- Version control: Git Hub, SharePoint
+- Languages: SQL, Python(Numpy, Pandas, Seaborn, Matplotlib,etc), Spark, R Programming, PowerShell
+- Software: Microsoft SQL Server, Trino, Microsoft Excel, Tableau, Jira, Adobe Target, PostMan, QueryBook, Airflow
+- Technical Skills: Natural Language Processing, A/B Testing Statistical Analysis, User Acceptance Testing(UAT), ETL, Data science pipeline (cleansing, wrangling, visualization, modeling, interpretation), Web scraping, Scripting and programming
+  
+- Interests: Camping, Traveling, Keeping up with AI, Writing data-centered blogs 
 
 
 
